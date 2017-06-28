@@ -1,1 +1,0 @@
-This is the test document for the git.
